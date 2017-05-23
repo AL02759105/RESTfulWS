@@ -1,6 +1,6 @@
 # RESTfulWS
 
-A. Instalación
-B. Uso
-C. Créditos
-D. Licencia
+a - Instalación
+b - Uso
+c - Créditos
+d - Licencia
